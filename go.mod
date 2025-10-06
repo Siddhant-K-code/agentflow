@@ -7,7 +7,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.16.2
 	github.com/google/uuid v1.4.0
 	github.com/lib/pq v1.10.9
-	github.com/nats-io/nats.go v1.31.0
+	github.com/nats-io/nats.go v1.46.1
 	github.com/redis/go-redis/v9 v9.3.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.17.0
@@ -27,10 +27,10 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
-	github.com/klauspost/compress v1.17.0 // indirect
+	github.com/klauspost/compress v1.18.0 // indirect
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
-	github.com/nats-io/nkeys v0.4.5 // indirect
+	github.com/nats-io/nkeys v0.4.11 // indirect
 	github.com/nats-io/nuid v1.0.1 // indirect
 	github.com/paulmach/orb v0.10.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.1.0 // indirect
